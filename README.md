@@ -9,7 +9,7 @@ From a regulation network of Escherichia coli genes dataset, we wrote a script u
 To get files, open your terminal in the folder where you want to store and write : 
 
 ```
-$ git clone https://github.com/HansSCHR/tulip_project/
+$ git clone https://github.com/Debcottais/Tulip_project2019
 ```
 
 ### Prerequisites
